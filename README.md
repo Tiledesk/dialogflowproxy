@@ -1,6 +1,6 @@
 # DEPRECATED
 
-# THE BEST WAY TO CONNECT DIALOGFLOW TO TILEDESK IS TO USE THE NATIVE DIALOGFLOW CONNECTOR AVAILABLE FOR FREE IN "YOUR PROJECT" > "BOTS" > "ADD BOT" > "DIALOGFLOW".
+# The best way to connect Dialogflow to Tiledesk is to use the free native Dialogflow connector in: "YOUR PROJECT" > "BOTS" > "ADD BOT" > "DIALOGFLOW".
 
 # Dialogflow Proxy App
 A simple Node.js proxy to connect Tiledesk Widget directly with Dialogflow.
